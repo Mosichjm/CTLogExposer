@@ -284,7 +284,3 @@ Created for security researchers and bug bounty hunters who need comprehensive s
 ---
 
 **⭐ Star this repo if it helped you discover hidden attack surface!**
-
-3. Create example output files?
-4. Add screenshots/demos?
-5. Create a CONTRIBUTING.md guide?
