@@ -205,7 +205,7 @@ Run daily to detect new subdomains as they're created (great for CI/CD pipelines
 
 ## 🔮 Future Enhancements
 
-- [ ] Add more CT log sources (Cloudflare, Google CT)
+- [ ] Add more CT log sources (Cloudflare, Google CT, etc.)
 - [ ] Implement caching to avoid re-querying same domains
 - [ ] Add JSON output format for pipeline integration
 - [ ] Implement async/await for better performance
