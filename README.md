@@ -2,7 +2,7 @@
 
 ## 📋 Overview
 
-CTLogExposer is a powerful subdomain enumeration tool that aggregates data from multiple Certificate Transparency (CT) logs and subdomain intelligence sources. Unlike traditional CT log scrapers that rely on a single source, this tool queries 11+ different APIs and databases to provide comprehensive subdomain discovery with intelligent deduplication and DNS resolution.
+CTLogExposer is a powerful passive subdomain enumeration tool that aggregates data from multiple Certificate Transparency (CT) logs and subdomain intelligence sources. Unlike traditional CT log scrapers that rely on a single source, this tool queries 11+ different APIs and databases to provide comprehensive subdomain discovery with intelligent deduplication and DNS resolution.
 
 ## 🎯 Purpose
 
